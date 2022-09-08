@@ -1,4 +1,4 @@
-package br.com.mytillus.controllerl;
+package br.com.mytillus.controllers;
 
 import br.com.mytillus.domain.Categoria;
 import br.com.mytillus.services.CategoriaService;
